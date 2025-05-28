@@ -4,7 +4,6 @@ body{
     justify-content: center;
     min-height: 100vh;
     padding: 0 35px;
-    background: linear-gradient(to left top, #031A9A,#8B53FF);
 }
 .wrapper{
     max-width: 1900px;
@@ -97,6 +96,7 @@ body{
     font-weight: 500;
     font-size: 1.56rem;
     margin: 30px 0 5px;
+    color: #ff0095;
 }
 .card span{
     color:#6a6d78;
