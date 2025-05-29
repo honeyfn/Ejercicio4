@@ -1,0 +1,18 @@
+body{
+    align-self: center;
+    justify-content: center;
+}
+
+h1{
+    margin: 2%;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+
+.redi-bttns{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 5%;
+}
